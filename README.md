@@ -1,7 +1,7 @@
 # RaspberryPi_Robot-Vehicle-Basic
 Raspberry Pi and C programming: Motor driver board, robot car driving, I/O ports, PWM, timing, multithread programming, and user interface
 
-Instructions:
+# Instructions
 tar -xvzf hw4wang.tgz\
 cd hw4wang\
 make\
